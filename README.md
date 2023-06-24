@@ -1,2 +1,1 @@
-Aim is to recommend the similar games to the user based on their behavior.
-I have performed basic EDA, and used collaborative filtering technique to recommend games.
+The objective is to provide game recommendations to users by analyzing their behavior, employing initial exploratory data analysis, and utilizing collaborative filtering techniques.
